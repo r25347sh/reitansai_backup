@@ -1,0 +1,6 @@
+body{font-family:system-ui,sans-serif;background:#0b1f14;color:#e8f5e9;margin:0;padding:1.5rem;line-height:1.5}
+header{margin-bottom:1.25rem}
+h1{margin:0 0 .35rem;font-size:1.4rem}
+details{background:rgba(255,255,255,.06);border:1px solid rgba(232,245,233,.12);border-radius:12px;padding:.75rem 1rem;margin:.5rem 0}
+summary{cursor:pointer}
+.mono{font-family:ui-monospace,monospace;font-size:.85rem;opacity:.8;word-break:break-all}
